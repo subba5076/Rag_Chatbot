@@ -39,8 +39,7 @@ venv\Scripts\activate  # On Windows
 # source venv/bin/activate  # On macOS/Linux
 
 # Step 3: Install dependencies
-pip install -r requirements.txt
-# OR if requirements.txt doesn't exist
+
 pip install streamlit langchain faiss-cpu sentence-transformers transformers pypdf python-dotenv
 
 # Step 4: Run the Streamlit app

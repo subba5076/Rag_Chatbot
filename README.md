@@ -28,7 +28,7 @@ rag_chatbot/
 ├── requirements.txt        # Python dependencies
 └── assets/
     └── working_demo.png    # Screenshot of the app in action
-
+```
 # Step 1: Clone the repository
 git clone https://github.com/yourusername/rag_chatbot.git
 cd rag_chatbot
@@ -44,9 +44,9 @@ pip install streamlit langchain faiss-cpu sentence-transformers transformers pyp
 
 # Step 4: Run the Streamlit app
 streamlit run app.py
-'''
 
-🔧 Built With
+
+##🔧 Built With
 LangChain
 
 Sentence Transformers
@@ -56,6 +56,9 @@ Hugging Face Transformers
 FAISS
 
 Streamlit
+
+## 📄 License
+MIT License – feel free to use, modify, and share.
 
 
 

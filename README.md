@@ -19,7 +19,7 @@ This project is a fully local Retrieval-Augmented Generation (RAG) chatbot that 
 
 ## 🗂️ Project Structure
 rag_chatbot/
-├── app.py # Main Streamlit app
+- ├── app.py # Main Streamlit app
 ├── document_loader.py # Loads and chunks documents
 ├── vector_store.py # Handles FAISS vector store
 ├── qa_chain.py # Builds the RetrievalQA chain using local LLM

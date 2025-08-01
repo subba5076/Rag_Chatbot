@@ -29,6 +29,24 @@ rag_chatbot/
 └── assets/
     └── working_demo.png    # Screenshot of the app in action
 
+# Step 1: Clone the repository
+git clone https://github.com/yourusername/rag_chatbot.git
+cd rag_chatbot
+
+# Step 2: Create a virtual environment (recommended)
+python -m venv venv
+venv\Scripts\activate  # On Windows
+# source venv/bin/activate  # On macOS/Linux
+
+# Step 3: Install dependencies
+pip install -r requirements.txt
+# OR if requirements.txt doesn't exist
+pip install streamlit langchain faiss-cpu sentence-transformers transformers pypdf python-dotenv
+
+# Step 4: Run the Streamlit app
+streamlit run app.py
+
+
 
 
 

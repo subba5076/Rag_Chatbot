@@ -44,7 +44,18 @@ pip install streamlit langchain faiss-cpu sentence-transformers transformers pyp
 
 # Step 4: Run the Streamlit app
 streamlit run app.py
+'''
 
+🔧 Built With
+LangChain
+
+Sentence Transformers
+
+Hugging Face Transformers
+
+FAISS
+
+Streamlit
 
 
 

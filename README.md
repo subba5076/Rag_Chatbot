@@ -31,8 +31,8 @@ rag_chatbot/
 ```
 # Step 1: Clone the repository
 ```bash
-git clone https://github.com/subba5076/rag_chatbot.git
-cd rag_chatbot
+git clone https://github.com/subba5076/rag_Chatbot.git
+cd rag_Chatbot
 
 ```
 
